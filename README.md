@@ -73,8 +73,6 @@ The following KPIs were developed using DAX in Power BI:
 
 ## 📊 Power BI Dashboard
 
-The interactive dashboard consists of **three pages**:
-
 ### 1. Seasonal Inventory Management Overview
 
 Provides a high-level view of business performance.
@@ -110,8 +108,6 @@ Key visualizations:
 - Monthly Units Sold Trend
 
 ## 🔍 Key Business Insights
-
-Based on the Power BI dashboard:
 
 **1. Category Revenue Contribution**
 
@@ -174,11 +170,3 @@ Through this project, I gained practical experience in:
 This project demonstrates how data analytics and Power BI can help businesses make informed inventory management decisions.
 
 By analyzing product performance, inventory levels, stockout risks, and seasonal demand, ToyJoy can improve stock availability, optimize inventory investment, reduce unnecessary holding costs, and support better business planning.
-
----
-
-**Project Type:** Business Case Study | Data Analytics | Power BI
-
-**Developed using:** Microsoft Power BI, DAX, Power Query, Excel/CSV
-
-**Author:** Your Name
